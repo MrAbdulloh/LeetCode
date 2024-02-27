@@ -38,19 +38,19 @@ Explanation: There are 10 pairs of indices that satisfy the conditions in the st
 #                 result += 1
 #     return result
 
-def countPairs(nums: list[int], target: int) -> int:
-    counter = 0
-    left, right = 0, len(nums) - 1
-    nums.sort()
-    while left < right:
-        if nums[left] + nums[right] < target:
-            counter += right - left
-            left += 1
-        else:
-            right -= 1
-    return counter
-
-
-nums = [-6, 2, 5, -2, -7, -1, 3]
-target = -2
-print(countPairs(nums, target))
+# def countPairs(nums: list[int], target: int) -> int:
+#     counter = 0
+#     left, right = 0, len(nums) - 1
+#     nums.sort()
+#     while left < right:
+#         if nums[left] + nums[right] < target:
+#             counter += right - left
+#             left += 1
+#         else:
+#             right -= 1
+#     return counter
+#
+#
+# nums = [-6, 2, 5, -2, -7, -1, 3]
+# target = -2
+# print(countPairs(nums, target))
