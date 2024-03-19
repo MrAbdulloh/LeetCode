@@ -74,3 +74,9 @@
 
 5- 1662. Check If Two String Arrays are Equivalent
 
+
+### 19.03.24
+
+1 - 1773. Count Items Matching a Rule
+
+2 - 1832. Check if the Sentence Is Pangram
