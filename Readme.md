@@ -80,3 +80,11 @@
 1 - 1773. Count Items Matching a Rule
 
 2 - 1832. Check if the Sentence Is Pangram
+
+### 20.03.24
+
+1 - 290. Word Pattern
+
+2 - 1859. Sorting the Sentence
+
+3 - 2810. Faulty Keyboard
