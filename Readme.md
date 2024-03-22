@@ -88,3 +88,15 @@
 2 - 1859. Sorting the Sentence
 
 3 - 2810. Faulty Keyboard
+
+### 21.03.24
+
+1 - 2000. Reverse Prefix of Word
+
+2 - 1967. Number of Strings That Appear as Substrings in Word
+
+3 - 3019. Number of Changing Keys
+
+4 - 1768. Merge Strings Alternately
+
+5 - 2710. Remove Trailing Zeros From a String
