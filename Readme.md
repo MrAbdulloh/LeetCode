@@ -100,3 +100,11 @@
 4 - 1768. Merge Strings Alternately
 
 5 - 2710. Remove Trailing Zeros From a String
+
+### 25.03.24
+
+1 - 2185. Counting Words With a Given Prefix
+
+2 - 1941. Check if All Characters Have Equal Number of Occurrences
+
+3 - 412. Fizz Buzz
