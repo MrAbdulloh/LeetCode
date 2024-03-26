@@ -17,9 +17,9 @@
 
 3 - 2108. Find First Palindromic String in the Array
 
-4 - 2535. Difference Between Element Sum and Digit Sum of an Array
++4 - 2535. Difference Between Element Sum and Digit Sum of an Array
 
-5 - 3065. Minimum Operations to Exceed Threshold Value I
++5 - 3065. Minimum Operations to Exceed Threshold Value I
 
 ### 09.03.24
 
@@ -108,3 +108,7 @@
 2 - 1941. Check if All Characters Have Equal Number of Occurrences
 
 3 - 412. Fizz Buzz
+
+### 26.03.24
+
+1 - 136. Single Number
