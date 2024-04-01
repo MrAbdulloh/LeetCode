@@ -112,3 +112,15 @@
 ### 26.03.24
 
 1 - 136. Single Number
+
+### 28.03.24
+
+1 - 2652. Sum Multiples
+
+### 01.04.24
+
+1 - 2469. Convert the Temperature
+
+2 - 2894. Divisible and Non-divisible Sums Difference
+
+3 - 2413. Smallest Even Multiple
