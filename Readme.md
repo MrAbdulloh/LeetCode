@@ -124,3 +124,9 @@
 2 - 2894. Divisible and Non-divisible Sums Difference
 
 3 - 2413. Smallest Even Multiple
+
+### 02.04.24
+
+1 - 1281. Subtract the Product and Sum of Digits of an Integer
+
+2 - 2160. Minimum Sum of Four Digit Number After Splitting Digits
