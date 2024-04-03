@@ -130,3 +130,9 @@
 1 - 1281. Subtract the Product and Sum of Digits of an Integer
 
 2 - 2160. Minimum Sum of Four Digit Number After Splitting Digits
+
+### 03.04.24
+
+1 - 1913. Maximum Product Difference Between Two Pairs
+
+2 - 1464. Maximum Product of Two Elements in an Array
