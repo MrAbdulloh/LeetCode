@@ -136,3 +136,11 @@
 1 - 1913. Maximum Product Difference Between Two Pairs
 
 2 - 1464. Maximum Product of Two Elements in an Array
+
+## 04.04.24
+
+1 - 2656. Maximum Sum With Exactly K Elements
+
+2 - 2778. Sum of Squares of Special Elements
+
+3 - 2733. Neither Minimum nor Maximum
