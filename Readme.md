@@ -144,3 +144,9 @@
 2 - 2778. Sum of Squares of Special Elements
 
 3 - 2733. Neither Minimum nor Maximum
+
+## 05.04.24
+
+1 - 27. Remove Element
+
+2 - 1200. Minimum Absolute Difference
