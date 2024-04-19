@@ -150,3 +150,7 @@
 1 - 27. Remove Element
 
 2 - 1200. Minimum Absolute Difference
+
+## 19.04.24
+
+1 - 202. Happy Number
