@@ -154,3 +154,13 @@
 ## 19.04.24
 
 1 - 202. Happy Number
+
+## 29.04.24
+
+1 - 1637. Widest Vertical Area Between Two Points Containing No Points
+
+## 30.05.24
+
+1- 1688. Count of Matches in Tournament
+
+2 - 2520. Count the Digits That Divide a Number
