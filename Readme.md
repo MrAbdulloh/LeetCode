@@ -164,3 +164,15 @@
 1- 1688. Count of Matches in Tournament
 
 2 - 2520. Count the Digits That Divide a Number
+
+## 01.05.24
+
+1 - 2520. Count the Digits That Divide a Number
+
+2 - 1688. Count of Matches in Tournament
+
+## 02.05.24
+
+1- 1185. Day of the Week
+
+2 - 258. Add Digits
