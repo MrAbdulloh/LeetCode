@@ -176,3 +176,9 @@
 1- 1185. Day of the Week
 
 2 - 258. Add Digits
+
+## 03.05.24
+
+1 - 3131. Find the Integer Added to Array I
+
+2 - 3110. Score of a String
