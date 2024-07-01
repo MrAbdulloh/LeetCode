@@ -16,7 +16,8 @@ def threeConsecutiveOdds(arr: list[int]) -> bool:
             odds += 1
             if odds == 3:
                 return True
-        odds = 0
+        else:
+            odds = 0
     return False
 
 arr = [1, 2, 3, 4, 5, 7, 9, 11]
