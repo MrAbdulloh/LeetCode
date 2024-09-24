@@ -39,9 +39,8 @@ class Solution:
         return max_len
 
 
-# Misol
 arr1 = [123, 456]
 arr2 = [1234, 457]
 
 solution = Solution()
-print(solution.longestCommonPrefix(arr1, arr2))  # 3 qaytaradi
+print(solution.longestCommonPrefix(arr1, arr2))
