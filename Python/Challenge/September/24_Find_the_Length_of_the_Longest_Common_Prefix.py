@@ -16,7 +16,6 @@ class Trie:
             node = node.children[digit]
         node.is_end_of_number = True
 
-
     def longest_common_prefix(self, number):
         node = self.root
         prefix_length = 0
@@ -45,4 +44,4 @@ arr1 = [123, 456]
 arr2 = [1234, 457]
 
 solution = Solution()
-print(solution.longest_common_prefix_length(arr1, arr2))  # 3 qaytaradi
+print(solution.longestCommonPrefix(arr1, arr2))  # 3 qaytaradi
